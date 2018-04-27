@@ -1,0 +1,29 @@
+{
+  "name": "node-placeholder",
+  "version": "1.0.0",
+  "description": "Placeholder web app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "node",
+    "nodejs",
+    "placeholder",
+    "web",
+    "server"
+  ],
+  "author": "Ricardo Bánffy",
+  "license": "GPL-3.0-or-later",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:rbanffy/node-placeholder.git"
+  },
+  "bugs": {
+    "url": "https://github.com/rbanffy/node-placeholder/issues"
+  },
+  "homepage": "https://github.com/rbanffy/node-placeholder#readme",
+  "bin": {
+    "placeholder-server": "index.js"
+  }
+}
